@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+pymssql
+sqlalchemy
+python-dotenv
+pyarrow
+jupyter
+ipykernel
+nbformat
+nbconvert
+streamlit
